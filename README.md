@@ -17,9 +17,11 @@ When you create an account using Email/Password, Google, or Apple login, we may 
 ### b) Location Data
 MotoClub uses real-time location to enable group navigation features.
 We collect:
+- Location Data is not collected when App is closed.
 - Precise real-time location during active trips
-- Location data is shared only with your selected group members and stays within app during navigation period
-- Location may be temporarily stored on our servers to enable group travel features
+- Location data is shared only with your selected group members and stays within app during active navigation period
+- Users can stop location sharing at any time by ending the trip
+- Trip and location data is retained only as long as required to provide core app functionality (such as trip history and group coordination).
 
 ### c) User Content
 You may provide:
@@ -71,6 +73,7 @@ We use trusted third-party services that may process limited data:
 
 These services process data according to their own privacy policies.
 
+
 ### c) Legal Requirements
 We may disclose information if required by law or to protect user safety
 
@@ -79,7 +82,7 @@ We may disclose information if required by law or to protect user safety
 ## 4. Data Retention
 
 - Location history and trip history may be stored to support app features
-- When you delete your account, all associated data is deleted immediately
+- When you delete your account, all personal data is deleted within 60 days
 - Backup copies may exist temporarily for technical reasons but are removed in normal system cycles
 
 ---
@@ -88,9 +91,10 @@ We may disclose information if required by law or to protect user safety
 
 You can:
 - View and edit your profile information
-- Delete your account from within the app
+- Request deletion of your your account by enailing us
 - Request a copy of your data by emailing us
 - Request data deletion by emailing us
+- Certain data may be retained temporarily in backups as described in the Data Retention section
 
 Contact: inidsoln@gmail.com
 
@@ -109,7 +113,7 @@ However, no system is 100% secure
 
 ## 7. Children’s Privacy
 
-MotoClub is not allowed for users under 18 as it is meant for Driving Applicatino. However, we encourage parental guidance incase of children. We do not knowingly collect unnecessary personal data from children.
+MotoClub is not allowed for users under 18 as it is meant for Driving Application.
 
 If you believe a child has provided personal information without proper consent, contact us at: inidsoln@gmail.com
 
