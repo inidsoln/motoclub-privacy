@@ -1,6 +1,6 @@
 # Privacy Policy for MotoClub
 
-**Effective Date:** [2026-01-18]
+**Effective Date:** [2026-02-08]
 
 MotoClub is operated by inidsoln ("we", "our", "us"). This Privacy Policy explains how we collect, use, share, and protect your information when you use the MotoClub mobile application (the "App"). By using MotoClub, you agree to the practices described in this policy.
 
@@ -12,13 +12,14 @@ MotoClub is operated by inidsoln ("we", "our", "us"). This Privacy Policy explai
 When you create an account using Email/Password, Google, or Apple login, we may collect:
 - Email address
 - User ID (email address)
+- Mobile Number
 - Name and profile photo (if you provide them)
 
 ### b) Location Data
 MotoClub uses real-time location to enable group navigation features.
 We collect:
-- Location Data is not collected when App is closed.
 - Precise real-time location during active trips
+- Location Data is not collected when App is closed
 - Location data is shared only with your selected group members and stays within app during active navigation period
 - Users can stop location sharing at any time by ending the trip
 - Trip and location data is retained only as long as required to provide core app functionality (such as trip history and group coordination).
@@ -61,7 +62,7 @@ We may share your data:
 
 ### a) With Other Users
 - Your live location is shared only with members of your travel group during active trips
-- Your profile name and photo may be visible to group members
+- Your profile name and photo may be visible to other group members
 
 ### b) With Service Providers
 We use trusted third-party services that may process limited data:
@@ -113,7 +114,7 @@ However, no system is 100% secure
 
 ## 7. Children’s Privacy
 
-MotoClub is not allowed for users under 18 as it is meant for Driving Application.
+MotoClub is not allowed for children, as it is meant for Driving Application.
 
 If you believe a child has provided personal information without proper consent, contact us at: inidsoln@gmail.com
 
